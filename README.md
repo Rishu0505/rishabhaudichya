@@ -43,7 +43,7 @@
 | 🤖 | **Google Gemini Certified Educator** | Google for Education | Jan 2029 |
 | 🛡️ | **Data Security Certification** | InterVision Systems | 2024 |
 | 🌐 | **Google Digital Unlocked** | Google | 2018 |
-| 💻 | **Ethical Hacking: Hacking Web Servers** | — | 2018 |
+| 💻 | **Ethical Hacking: Hacking Web Servers** | ECH| 2018 |
 
 </div>
 
@@ -200,9 +200,9 @@
 
 [![Email](https://img.shields.io/badge/Gmail-rishabh.audichya05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabh.audichya05@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_97847_50967-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9784750967)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_USERNAME.github.io)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-audichya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)]
+(https://github.com/Rishu0505/rishabhaudichya)
 </div>
 
 ---
